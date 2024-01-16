@@ -1,0 +1,18 @@
+{
+  "name": "com.robotdreams.observerpattern",
+  "version": "1.0.0",
+  "displayName": "Observer Pattern",
+  "description": "This is an example package",
+  "unity": "2022.3",
+  "unityRelease": "12f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+ },
+  "author": {
+    "name": "RobotDreams",
+    "email": "info@robotdreams.com",
+    "url": "https://www.robotdreams.com"
+  }
+}

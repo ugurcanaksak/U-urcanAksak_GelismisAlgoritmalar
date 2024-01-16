@@ -1,0 +1,16 @@
+{
+    "name": "com.robotdreams.openclose.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3d006ab9f12888243b466d21e5c4f0f0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

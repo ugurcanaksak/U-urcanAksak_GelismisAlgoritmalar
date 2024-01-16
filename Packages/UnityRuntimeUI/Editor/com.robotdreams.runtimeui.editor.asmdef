@@ -1,0 +1,18 @@
+{
+    "name": "com.robotdreams.runtimeui.editor",
+    "rootNamespace": "RobotDreams.RuntimeUI.Editor",
+    "references": [
+        "GUID:8a506a101d10c3b438c6ed96bb9d1d38"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "com.robotdreams.editorextensions",
+    "rootNamespace": "RobotDreams.EditorExtensions",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

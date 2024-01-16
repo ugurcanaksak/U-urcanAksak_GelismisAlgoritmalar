@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/EditorExtensionsUIToolKit/Resources/Style/ExampleStyle.uss?fileID=7433441132597879392&amp;guid=e66613ff07ae85f428bed08ba4436312&amp;type=3#ExampleStyle" />
+    <ui:Label tabindex="-1" text="First Title" parse-escape-sequences="true" display-tooltip-when-elided="true" name="title" />
+    <ui:VisualElement style="flex-grow: 0; flex-direction: row; align-items: flex-start;">
+        <ui:IntegerField label="Option A" value="0" name="option-a" readonly="false" style="height: auto; width: auto; align-items: center; justify-content: space-between; align-self: flex-end; flex-direction: row; flex-grow: 0; flex-shrink: 1;" />
+        <ui:IntegerField label="Option B" value="0" name="option-b" style="height: auto; width: auto; flex-grow: 0; flex-shrink: 1;" />
+        <ui:Button text="Button" parse-escape-sequences="true" display-tooltip-when-elided="true" name="confirm-button" style="flex-grow: 1; flex-direction: row;" />
+    </ui:VisualElement>
+    <ui:DropdownField label="Dropdown" index="0" choices="Option A, Option B, Option C," />
+    <ui:SliderInt picking-mode="Ignore" label="SliderInt" value="42" high-value="100" name="test-slider" />
+</ui:UXML>

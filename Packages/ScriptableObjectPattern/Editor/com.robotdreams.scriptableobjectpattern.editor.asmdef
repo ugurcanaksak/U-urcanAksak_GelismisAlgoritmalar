@@ -1,0 +1,16 @@
+{
+    "name": "com.robotdreams.scriptableobjectpattern.editor",
+    "rootNamespace": "RobotDreams.ScriptableObjectPattern.Editor",
+    "references": [
+        "GUID:0a174f3824dc70348b606f342083e1ca"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

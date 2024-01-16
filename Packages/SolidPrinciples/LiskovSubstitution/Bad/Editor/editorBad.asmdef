@@ -1,0 +1,18 @@
+{
+    "name": "editorBad",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1f8d487f88936834f8db17fd09f85d44"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

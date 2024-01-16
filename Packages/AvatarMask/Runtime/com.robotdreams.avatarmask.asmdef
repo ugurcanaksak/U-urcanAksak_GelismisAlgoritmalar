@@ -1,0 +1,14 @@
+{
+    "name": "com.robotdreams.avatarmask",
+    "rootNamespace": "RobotDreams.AvatarMask",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

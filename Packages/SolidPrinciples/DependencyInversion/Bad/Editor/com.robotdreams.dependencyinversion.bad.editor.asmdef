@@ -1,0 +1,18 @@
+{
+    "name": "com.robotdreams.dependencyinversion.bad.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1badca9c89cfded4395bade48ea969c5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

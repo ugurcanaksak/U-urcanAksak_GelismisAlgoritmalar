@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="button-container" style="flex-grow: 1;">
+        <ui:Label tabindex="-1" text="Settings Menu" parse-escape-sequences="true" display-tooltip-when-elided="true" name="header" style="justify-content: flex-start; -unity-text-align: upper-center; height: 64px; font-size: 30px;" />
+        <ui:Button text="Login Facebook" parse-escape-sequences="true" display-tooltip-when-elided="true" name="facebook-login" />
+        <ui:Toggle label="Sound Status" name="sound-status" />
+        <ui:Slider picking-mode="Ignore" label="Volume" value="100" high-value="100" name="volume-slider" />
+    </ui:VisualElement>
+</ui:UXML>

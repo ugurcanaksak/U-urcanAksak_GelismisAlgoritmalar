@@ -1,0 +1,14 @@
+{
+    "name": "com.robotdreams.objectpooling",
+    "rootNamespace": "RobotDreams.ObjectPooling",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

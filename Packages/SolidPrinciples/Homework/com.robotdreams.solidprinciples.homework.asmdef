@@ -1,0 +1,14 @@
+{
+    "name": "com.robotdreams.solidprinciples.homework",
+    "rootNamespace": "RobotDreams.SolidPrinciples.Homework",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
